@@ -22,3 +22,7 @@
     - ⬜ [더 자바, Java8 (백기선)](https://www.inflearn.com/course/the-java-java8)
 9. 스프링 심화
     - ⬜ [스프링 핵심 원리 - 고급편 (김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B3%A0%EA%B8%89%ED%8E%B8)
+
+### [강의]
+- [자바 ORM 표준 JPA 프로그래밍 - 기본편 (김영한)](https://www.inflearn.com/course/ORM-JPA-Basic)
+- [Spring Boot를 이용한 RESTful Web Services 개발 (Dowon Lee)](https://www.inflearn.com/course/spring-boot-restful-web-services#curriculum)
