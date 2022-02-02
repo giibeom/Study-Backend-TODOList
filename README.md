@@ -7,9 +7,9 @@
 2. HTTP 웹 기본지식
    - ✅ [모든 개발자를 위한 HTTP 웹 기본 지식 (김영한)](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 3. 스프링 기본 핵심원리
-    - 👀 [스프링 핵심 원리 - 기본편 (김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard)
+    - ✅ [스프링 핵심 원리 - 기본편 (김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard)
 4. git & github
-    - ⬜ [제대로 파는 Git & GitHub (얄코)](https://www.inflearn.com/course/%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%EB%8A%94-%EA%B9%83)
+    - 👀 [제대로 파는 Git & GitHub (얄코)](https://www.inflearn.com/course/%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%EB%8A%94-%EA%B9%83)
 5. 스프링 부트
     - ⬜ [Spring Boot를 이용한 RESTful Web Services 개발 (Dowon Lee)](https://www.inflearn.com/course/spring-boot-restful-web-services#curriculum)
 6. 클린 코더스
