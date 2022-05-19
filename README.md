@@ -9,9 +9,11 @@
 2. HTTP 웹 기본지식
    - ✅ [모든 개발자를 위한 HTTP 웹 기본 지식 (김영한)](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 3. 스프링 기본 핵심원리
-    - ✅ [스프링 핵심 원리 - 기본편 (김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard)
+   - ✅ [스프링 핵심 원리 - 기본편 (김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard)
+   - 🔗 [기록하기](https://github.com/giibeom/Inflearn_SpringBoot)  
 4. git & github
-    - ✅ [제대로 파는 Git & GitHub (얄코)](https://www.inflearn.com/course/%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%EB%8A%94-%EA%B9%83)
+   - ✅ [제대로 파는 Git & GitHub (얄코)](https://www.inflearn.com/course/%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%EB%8A%94-%EA%B9%83)
+   - 🔗 [기록하기](https://github.com/giibeom/git-practice)
 5. CS 완전정복 & 스프링 웹개발 핵심 기술 1
    - 👀 [기출로 대비하는 개발자 전공면접 [CS 완전정복]](https://www.inflearn.com/course/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%A0%84%EA%B3%B5%EB%A9%B4%EC%A0%91-cs-%EC%99%84%EC%A0%84%EC%A0%95%EB%B3%B5/dashboard)
    - 👀 [스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술 (김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1)
